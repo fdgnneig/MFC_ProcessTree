@@ -1,0 +1,89 @@
+﻿  stdafx.cpp
+  CMySocket.cpp
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  md5.cpp
+e:\c源码\面试项目复习\mfc_processtree - 副本\md5.cpp(115): warning C4267: “参数”: 从“size_t”转换到“MD5::size_type”，可能丢失数据
+  MFC_ProcessTree.cpp
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  MFC_ProcessTreeDlg.cpp
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree - 副本\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(394): warning C4477: “swprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“BYTE *”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(394): warning C4313: “swprintf_s”: 格式字符串中的“%d”与“BYTE *”类型的参数 1 冲突
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(453): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(453): warning C4313: “swprintf_s”: 格式字符串中的“%x”与“LPVOID”类型的参数 1 冲突
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(676): warning C4477: “swprintf_s”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(676): note: 请考虑在格式字符串中使用“%llu”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(676): note: 请考虑在格式字符串中使用“%Iu”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(676): note: 请考虑在格式字符串中使用“%I64u”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(741): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(788): warning C4307: “+”: 整型常量溢出
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(833): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(881): warning C4477: “swprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SIZE_T”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(881): note: 请考虑在格式字符串中使用“%lld”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(881): note: 请考虑在格式字符串中使用“%Id”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(881): note: 请考虑在格式字符串中使用“%I64d”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(959): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1023): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1082): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1213): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1213): note: 请考虑在格式字符串中使用“%llx”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1213): note: 请考虑在格式字符串中使用“%Ix”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1213): note: 请考虑在格式字符串中使用“%I64x”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1346): warning C4477: “swprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1346): note: 请考虑在格式字符串中使用“%lld”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1346): note: 请考虑在格式字符串中使用“%Id”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1346): note: 请考虑在格式字符串中使用“%I64d”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1352): warning C4244: “参数”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1422): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1441): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1500): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1506): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1506): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1506): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIR_STRING_U”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1541): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1541): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1541): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIRECTORY”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1544): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1552): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1552): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1552): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIR_STRING_U”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1574): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1574): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1574): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DIRECTORY”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1580): warning C4311: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1580): warning C4302: “类型强制转换”: 从“PIMAGE_RESOURCE_DIRECTORY”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1580): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_RESOURCE_DATA_ENTRY”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1667): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1698): warning C4311: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”的指针截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1698): warning C4302: “类型强制转换”: 从“PIMAGE_BASE_RELOCATION”到“DWORD”截断
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1698): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PIMAGE_BASE_RELOCATION”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1728): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1728): note: 请考虑在格式字符串中使用“%llx”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1728): note: 请考虑在格式字符串中使用“%Ix”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1728): note: 请考虑在格式字符串中使用“%I64x”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1735): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1735): note: 请考虑在格式字符串中使用“%llx”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1735): note: 请考虑在格式字符串中使用“%Ix”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1735): note: 请考虑在格式字符串中使用“%I64x”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1742): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1742): note: 请考虑在格式字符串中使用“%llx”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1742): note: 请考虑在格式字符串中使用“%Ix”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1742): note: 请考虑在格式字符串中使用“%I64x”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1799): warning C4477: “swprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“ULONGLONG”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1799): note: 请考虑在格式字符串中使用“%lld”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1799): note: 请考虑在格式字符串中使用“%Id”
+  e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1799): note: 请考虑在格式字符串中使用“%I64d”
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(1805): warning C4244: “参数”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(2096): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(2172): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(2413): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c源码\面试项目复习\mfc_processtree - 副本\mfc_processtreedlg.cpp(2607): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 参见“swprintf”的声明
+  MyListCtrl.cpp
+  PEFunction.cpp
+e:\c源码\面试项目复习\mfc_processtree - 副本\pefunction.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  MFC_ProcessTree.vcxproj -> E:\c源码\面试项目复习\MFC_ProcessTree - 副本\x64\Debug\MFC_ProcessTree.exe

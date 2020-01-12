@@ -1,0 +1,30 @@
+﻿  CMySocket.cpp
+e:\c源码\面试项目复习\mfc_processtree\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  MFC_ProcessTree.cpp
+e:\c源码\面试项目复习\mfc_processtree\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  MFC_ProcessTreeDlg.cpp
+e:\c源码\面试项目复习\mfc_processtree\data.h(82): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\面试项目复习\mfc_processtree\data.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+e:\c源码\面试项目复习\mfc_processtree\md5forfile.h(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c源码\面试项目复习\mfc_processtree\md5forfile.h(341): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(387): warning C4477: “swprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“BYTE *”
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(427): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(445): warning C4477: “swprintf_s”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(779): warning C4307: “+”: 整型常量溢出
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(763): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(772): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(1411): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(1430): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(1489): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(1533): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(1656): warning C4018: “<”: 有符号/无符号不匹配
+e:\c源码\面试项目复习\mfc_processtree\mfc_processtreedlg.cpp(2602): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 参见“swprintf”的声明
+  正在生成代码...
+  MFC_ProcessTree.vcxproj -> E:\c源码\面试项目复习\MFC_ProcessTree\Debug\MFC_ProcessTree.exe
